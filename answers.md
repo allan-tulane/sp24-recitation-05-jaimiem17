@@ -1,4 +1,4 @@
-# CMPS 2200 Reciation 5
+# CMPS 2200 Recitation 5
 ## Answers
 
 **Name:**Jaimie Morris and Sofia Della Rosa
